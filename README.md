@@ -72,3 +72,8 @@ SVM achieved the best overall performance when combined with TF-IDF features.
 ## Conclusion
 This project demonstrates that traditional machine learning techniques can effectively classify text documents when combined with appropriate feature representations. Among the evaluated models, SVM with TF-IDF features performed best. Future work may explore deep learning models and contextual embeddings for improved performance.
 
+---
+
+## How to Run
+Just open the jupyter notebook and run all the cells section wise. You can use doc1.txt and doc2.txt or enter your own text during the inference to see how model works on real data.
+
